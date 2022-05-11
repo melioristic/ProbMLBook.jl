@@ -1,0 +1,4 @@
+name = "ProbMLBook"
+uuid = "954c1891-aef6-411f-a7cc-edcc9887ad92"
+authors = ["anand <mohit.anand@ufz.de>"]
+version = "0.1.0"
